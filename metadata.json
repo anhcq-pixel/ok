@@ -1,0 +1,6 @@
+{
+  "name": "Đấu Trường Toán Học - Vòng Quay & Bảng Điểm Real-Time",
+  "description": "Hệ thống thi đấu toán học real-time cho 4 đội: quay số chọn thí sinh, học sinh dùng điện thoại trả lời, 4 máy tính nhóm xem đề và bảng điểm tự động cập nhật trực tiếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
